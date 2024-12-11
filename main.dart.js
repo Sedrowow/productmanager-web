@@ -81060,7 +81060,7 @@ s=p}while(true)switch(s){case 0:i=A.fU("https://api.github.com/repos/Sedrowow/pr
 A.dZ("Attempting request to: "+A.i(i))
 p=4
 l=t.N
-k=A.aj(["Accept","application/vnd.github+json","Authorization","Bearer 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","X-GitHub-Api-Version","2022-11-28","Content-Type","application/json"],l,l)
+k=A.aj(["Accept","application/vnd.github+json","Authorization","Bearer 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","X-GitHub-Api-Version","2022-11-28","Content-Type","application/json"],l,l)
 s=7
 return A.y(A.aOC(i,B.dB.SU(A.aj(["title",a,"body",b],l,l),null),k),$async$yy)
 case 7:n=d
