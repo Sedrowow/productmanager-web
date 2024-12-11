@@ -88936,7 +88936,7 @@ var $async$zJ=A.N(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:i=A.aSZ()
 if(J.bu(i)===0){q=!1
 s=1
-break}n=A.hr("https://api.github.com/repos/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/issues")
+break}n=A.hr("https://api.github.com/repos/Sedrowow/productmanager/issues")
 p=4
 l=t.N
 k=A.ar(["Accept","application/vnd.github+json","Authorization","Bearer "+A.m(i),"X-GitHub-Api-Version","2022-11-28","Content-Type","application/json"],l,l)
